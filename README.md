@@ -4,16 +4,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mntuas&label=Profile%20views&color=0e75b6&style=flat" alt="mntuas" /> </p>
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=mntuas&show_icons=true&locale=en" alt="mntuas" />
-    </div>
-    <div>
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mntuas&" alt="mntuas" />
-    </div>
-</div>
 
-</br>
+
+
 
 
 - 💬 Ask me about **C#, Javascript**
@@ -32,4 +25,13 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+  <div style="display: flex; justify-content: space-between;">
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=mntuas&show_icons=true&locale=en" alt="mntuas" />
+    </div>
+    <div>
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mntuas&" alt="mntuas" />
+    </div>
+</div>
 
