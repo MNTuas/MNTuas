@@ -28,7 +28,7 @@
 
   <div style="display: flex; justify-content: space-between;">
     <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=mntuas&show_icons=true&locale=en" alt="mntuas" />
+        <img font-size= 50px align="left" src="https://github-readme-stats.vercel.app/api?username=mntuas&show_icons=true&locale=en" alt="mntuas" />
     </div>
     <div>
         <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mntuas&" alt="mntuas" />
