@@ -1,13 +1,16 @@
 <h1 align="center"> Nguyen Minh Tuan</h1>
+ Visitors
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mntuas/count.svg" alt="Visitor Count" />
+</div></br>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mntuas&show_icons=true&theme=radical&count_private=true" alt="mntuas's GitHub Stats" style="max-width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mntuas&layout=compact&theme=radical" alt="Most Used Languages" style="max-width: 70%; height: 195px" />
+</div>
+
+## 👋 Glad to see you here!
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mntuas&label=Profile%20views&color=0e75b6&style=flat" alt="mntuas" /> </p>
-<p align="left">
-</p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mntuas&show_icons=true&locale=en&layout=compact" alt="mntuas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mntuas&show_icons=true&locale=en" alt="mntuas" /></p>
